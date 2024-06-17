@@ -1,0 +1,500 @@
+.frame {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.frame .overlap-wrapper {
+    width: 5137px;
+    height: 22079px;
+}
+
+.frame .overlap-group {
+    position: relative;
+    height: 22079px;
+}
+
+.frame .group {
+    position: absolute;
+    width: 5137px;
+    height: 22079px;
+    top: 0;
+    left: 0;
+}
+
+.frame .rectangle {
+    position: absolute;
+    width: 5137px;
+    height: 22066px;
+    top: 0;
+    left: 0;
+    background-color: #ebd7cc;
+}
+
+.frame .div {
+    position: absolute;
+    width: 2425px;
+    height: 2024px;
+    top: 902px;
+    left: 553px;
+    background-color: #cdb6a7;
+    border-radius: 1500px 1500px 0px 0px;
+}
+
+.frame .group-2 {
+    position: absolute;
+    width: 4735px;
+    height: 1696px;
+    top: 9856px;
+    left: 235px;
+}
+
+.frame .img {
+    position: absolute;
+    width: 1406px;
+    height: 1696px;
+    top: 0;
+    left: 1635px;
+}
+
+.frame .rectangle-2 {
+    position: absolute;
+    width: 1406px;
+    height: 1696px;
+    top: 0;
+    left: 0;
+}
+
+.frame .rectangle-3 {
+    position: absolute;
+    width: 1406px;
+    height: 1696px;
+    top: 0;
+    left: 3329px;
+}
+
+.frame .rectangle-4 {
+    position: absolute;
+    width: 4735px;
+    height: 299px;
+    top: 3052px;
+    left: 234px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-5 {
+    position: absolute;
+    width: 4735px;
+    height: 299px;
+    top: 15608px;
+    left: 236px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-6 {
+    position: absolute;
+    width: 4735px;
+    height: 299px;
+    top: 12355px;
+    left: 236px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-7 {
+    position: absolute;
+    width: 5137px;
+    height: 771px;
+    top: 21308px;
+    left: 0;
+    background-color: #eccaca;
+}
+
+.frame .rectangle-8 {
+    position: absolute;
+    width: 1406px;
+    height: 299px;
+    top: 11253px;
+    left: 234px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-9 {
+    position: absolute;
+    width: 1096px;
+    height: 299px;
+    top: 17742px;
+    left: 236px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-10 {
+    position: absolute;
+    width: 1096px;
+    height: 299px;
+    top: 17742px;
+    left: 1446px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-11 {
+    position: absolute;
+    width: 1096px;
+    height: 299px;
+    top: 17742px;
+    left: 2661px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-12 {
+    position: absolute;
+    width: 1096px;
+    height: 299px;
+    top: 17742px;
+    left: 3842px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-13 {
+    position: absolute;
+    width: 1410px;
+    height: 299px;
+    top: 11253px;
+    left: 1866px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-14 {
+    position: absolute;
+    width: 1406px;
+    height: 299px;
+    top: 11253px;
+    left: 3563px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-15 {
+    position: absolute;
+    width: 4735px;
+    height: 1115px;
+    top: 5158px;
+    left: 234px;
+    background-color: #cdb5a7;
+}
+
+.frame .rectangle-16 {
+    position: absolute;
+    width: 1894px;
+    height: 1936px;
+    top: 6997px;
+    left: 2954px;
+}
+
+.frame .rectangle-17 {
+    position: absolute;
+    width: 893px;
+    height: 261px;
+    top: 8549px;
+    left: 470px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-18 {
+    position: absolute;
+    width: 893px;
+    height: 261px;
+    top: 1898px;
+    left: 3424px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-19 {
+    position: absolute;
+    width: 2081px;
+    height: 261px;
+    top: 5813px;
+    left: 1548px;
+    background-color: #e4dbd5;
+    border: 5px solid;
+    border-color: #000000;
+}
+
+.frame .rectangle-20 {
+    position: absolute;
+    width: 492px;
+    height: 261px;
+    top: 5813px;
+    left: 3137px;
+    background-color: #e4dbd5;
+    border: 5px solid;
+    border-color: #000000;
+}
+
+.frame .rectangle-21 {
+    position: absolute;
+    width: 893px;
+    height: 261px;
+    top: 14583px;
+    left: 337px;
+    background-color: #cdb6a7;
+}
+
+.frame .rectangle-22 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 3477px;
+    left: 234px;
+}
+
+.frame .rectangle-23 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 16502px;
+    left: 234px;
+}
+
+.frame .rectangle-24 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 3477px;
+    left: 2659px;
+}
+
+.frame .rectangle-25 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 16502px;
+    left: 2659px;
+}
+
+.frame .rectangle-26 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 3477px;
+    left: 1446px;
+}
+
+.frame .rectangle-27 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 16502px;
+    left: 1446px;
+}
+
+.frame .rectangle-28 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 3477px;
+    left: 3840px;
+}
+
+.frame .rectangle-29 {
+    position: absolute;
+    width: 1098px;
+    height: 1240px;
+    top: 16502px;
+    left: 3840px;
+}
+
+.frame .rectangle-30 {
+    position: absolute;
+    width: 2425px;
+    height: 2432px;
+    top: 494px;
+    left: 234px;
+}
+
+.frame .group-3 {
+    position: absolute;
+    width: 4735px;
+    height: 2046px;
+    top: 18502px;
+    left: 234px;
+}
+
+.frame .rectangle-31 {
+    position: absolute;
+    width: 2213px;
+    height: 2046px;
+    top: 0;
+    left: 1261px;
+}
+
+.frame .rectangle-32 {
+    position: absolute;
+    width: 1163px;
+    height: 993px;
+    top: 0;
+    left: 0;
+}
+
+.frame .rectangle-33 {
+    position: absolute;
+    width: 1163px;
+    height: 993px;
+    top: 0;
+    left: 3572px;
+}
+
+.frame .rectangle-34 {
+    position: absolute;
+    width: 1163px;
+    height: 967px;
+    top: 1079px;
+    left: 0;
+}
+
+.frame .rectangle-35 {
+    position: absolute;
+    width: 1163px;
+    height: 967px;
+    top: 1079px;
+    left: 3572px;
+}
+
+.frame .lorem-ipsum-dolor {
+    position: absolute;
+    width: 2102px;
+    top: 7326px;
+    left: 470px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper {
+    position: absolute;
+    width: 2102px;
+    top: 13417px;
+    left: 337px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .unsplash {
+    position: absolute;
+    width: 2359px;
+    height: 2538px;
+    top: 12830px;
+    left: 2581px;
+    object-fit: cover;
+}
+
+.frame .text-wrapper-2 {
+    position: absolute;
+    width: 609px;
+    top: 11332px;
+    left: 633px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+    top: 17821px;
+    left: 479px;
+    position: absolute;
+    width: 609px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+    top: 17821px;
+    left: 1689px;
+    position: absolute;
+    width: 609px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-5 {
+    top: 17821px;
+    left: 2904px;
+    position: absolute;
+    width: 609px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-6 {
+    top: 17821px;
+    left: 4082px;
+    position: absolute;
+    width: 609px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-7 {
+    top: 14643px;
+    left: 478px;
+    position: absolute;
+    width: 609px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-8 {
+    top: 11332px;
+    left: 2331px;
+    position: absolute;
+    width: 609px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-9 {
+    top: 11332px;
+    left: 4029px;
+    position: absolute;
+    width: 609px;
+    font-family: "Myanmar Text-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 93.9px;
+    letter-spacing: 0;
+    line-height: normal;
+}
